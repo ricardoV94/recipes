@@ -3,7 +3,7 @@
 ## Soups
 
 - Portuguese vegetables
-- [Tarragon chicken ragout](tarragon.md)
+- [Tarragon chicken ragout](soups/tarragon.md)
 - [Panna zucchini](soups/panna_zucchini.md)
 - [Carrot ginger](soups/carrot_ginger.md)
 - [Pumpkin](soups/pumpkin.md)
