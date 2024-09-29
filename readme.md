@@ -1,18 +1,34 @@
 # All of our recipes
 
+
+## Breakfast
+- [Aubergine cream](breakfast/aubergine_cream.md)
+- Egg cream
+- [Bread](breakfast/bread.md)
+
+
 ## Antipasti
 - Algarve carrots
 - Fish fingers
 - Feta and mozzarella
-- Aubergine cream
-- Egg cream
 - Garlic bread
 - [Mini zucchini pizzas](antipasti/zucchini_pizza.md)
 - [Tuna paté](https://amp.tudogostoso.com.br/receita/85835-pasta-de-atum-deliciosa.html)
 
 
-## Soups
+## Snacks
+- Ricardo sandwiches
+- Sausage things
+- Pogácsa
+    - Medvehagyma
+    - [Feta](snacks/feta_pogacsa.md)
+    
+## Drinks
+- [Sangria](drinks/sangria.md)
+- [Winter Aperol Spritz](drinks/winter_aperol.md)
 
+
+## Soups
 - Portuguese vegetables
 - [Tarragon chicken ragout](soups/tarragon.md)
 - [Panna zucchini](soups/panna_zucchini.md)
@@ -20,6 +36,7 @@
 - [Pumpkin](soups/pumpkin.md)
 - [Onion](soups/onion.md)
 - Package
+
 
 ## Pasta
 - [Greek pasta](pasta/greek.md)
@@ -66,4 +83,6 @@
 - Vegetables grilled in the oven
 - Grilled paprika with cheese
 - [Gomba paprikas](https://prove.hu/vegan-gombapaprikas-nokedlivel-glutenmentes-opcio/)
+
+
 
