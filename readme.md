@@ -1,5 +1,16 @@
 # All of our recipes
 
+## Antipasti
+- Algarve carrots
+- Fish fingers
+- Feta and mozzarella
+- Aubergine cream
+- Egg cream
+- Garlic bread
+- [Mini zucchini pizzas](antipasti/zucchini_pizza.md)
+- [Tuna paté](https://amp.tudogostoso.com.br/receita/85835-pasta-de-atum-deliciosa.html)
+
+
 ## Soups
 
 - Portuguese vegetables
@@ -10,7 +21,7 @@
 - [Onion](soups/onion.md)
 - Package
 
-## Pasta meals
+## Pasta
 - [Greek pasta](pasta/greek.md)
 - Carbonara
     - Ricardo style
@@ -36,4 +47,23 @@
 - Wok pasta (YouTube)
 - Moussaka (YouTube)
 - [Sztrapacska](https://www.nosalty.hu/recept/juhturos-sztrapacska)
+
+
+## Vegetarian
+- Lentil bolognese
+- [Falafel](vegetarian/falafel.md)
+- [Chili Sin Carne](https://prove.hu/vegan-csilisbab-chili-sin-carne/)
+- [Vegetarian lasagne](vegetarian/lasagne.md)
+- [Spanish omelette](vegetarian/spanish_omelette.md)
+- [Szechuan tofu](https://www.youtube.com/watch?v=kZ9a72tGfZY)
+- [Tikka masala tofu](vegetarian/tikka_masala.md)
+- [Ratatouille or lecsó](https://m.youtube.com/watch?v=ZXoHZBXUhLk)
+- [Couscous with vegetables](vegetarian/couscous.md)
+- [Chickpea-feta salad](vegetarian/chickpea_feta_salad.md)
+- Raw vegetables with dips 
+- Breaded zucchini / mushroom / pumpkin
+- Fried cheese
+- Vegetables grilled in the oven
+- Grilled paprika with cheese
+- [Gomba paprikas](https://prove.hu/vegan-gombapaprikas-nokedlivel-glutenmentes-opcio/)
 
