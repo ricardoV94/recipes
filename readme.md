@@ -61,7 +61,7 @@
 - [Tortellini](pasta/tortellini.md)
 - [MedveHagymas](https://www.mindmegette.hu/medvehagymas-rakott-penne.recept/)
 - [Alla vodka](https://www.bbcgoodfood.com/recipes/pasta-alla-vodka)
-- Wok pasta (YouTube)
+- Wok pasta (https://www.youtube.com/watch?v=puHSU9ZaZPY)
 - Moussaka (YouTube)
 - [Sztrapacska](https://www.nosalty.hu/recept/juhturos-sztrapacska)
 
