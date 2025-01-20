@@ -5,6 +5,7 @@
 - [Aubergine cream](breakfast/aubergine_cream.md)
 - Egg cream
 - [Bread](breakfast/bread.md)
+- Ricotta blubbery pancake (https://www.youtube.com/watch?v=tGFp1wJrjuI&t=434)
 
 
 ## Antipasti
@@ -83,7 +84,7 @@
 - Fried cheese
 - Vegetables grilled in the oven
 - Grilled paprika with cheese
-- [Gomba paprikas](https://prove.hu/vegan-gombapaprikas-nokedlivel-glutenmentes-opcio/)
+- [Gomba paprikas](https://prove.hu/vegan-gombapaprikas-nokedlivel-glutenmentes-opcio/) -make double portion!
 
 
 
