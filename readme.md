@@ -66,6 +66,8 @@
 - Moussaka (YouTube)
 - [Sztrapacska](https://www.nosalty.hu/recept/juhturos-sztrapacska)
 - Mac and cheese (https://streetkitchen.hu/alapkeszitmenyek/mac-and-cheese-alaprecept/)
+- Broccoli and lemon pasta
+https://www.recipetineats.com/quick-broccoli-pasta/
 
 
 ## Vegetarian
