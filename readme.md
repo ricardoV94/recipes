@@ -66,7 +66,6 @@
 - [MedveHagymas](https://www.mindmegette.hu/medvehagymas-rakott-penne.recept/)
 - [Alla vodka](https://www.bbcgoodfood.com/recipes/pasta-alla-vodka)
 - Wok pasta (https://www.youtube.com/watch?v=puHSU9ZaZPY)
-- Moussaka (YouTube)
 - [Sztrapacska](https://www.nosalty.hu/recept/juhturos-sztrapacska)
 - Mac and cheese (https://streetkitchen.hu/alapkeszitmenyek/mac-and-cheese-alaprecept/)
 - Broccoli and lemon pasta
