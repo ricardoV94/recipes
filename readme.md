@@ -30,6 +30,7 @@
 ## Drinks
 - [Sangria](drinks/sangria.md)
 - [Winter Aperol Spritz](drinks/winter_aperol.md)
+- [Lemonade] (drinks/lemonade.md)
 
 
 ## Soups
