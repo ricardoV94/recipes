@@ -97,6 +97,8 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 - Grilled paprika with cheese
 - [Gomba paprikas](https://prove.hu/vegan-gombapaprikas-nokedlivel-glutenmentes-opcio/) -make double portion!
 - tócsni
+- [arancini](https://www.healthylittlefoodies.com/baked-arancini/#recipe-variations)
+- risotto
 
 
 
