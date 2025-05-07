@@ -98,7 +98,7 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 - [Gomba paprikas](https://prove.hu/vegan-gombapaprikas-nokedlivel-glutenmentes-opcio/) -make double portion!
 - tócsni
 - [arancini](https://www.healthylittlefoodies.com/baked-arancini/#recipe-variations)
-- risotto
+- [risotto](https://www.healthylittlefoodies.com/sundried-tomato-vegetable-risotto/)
 
 
 
