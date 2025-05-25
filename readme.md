@@ -4,12 +4,19 @@
 - Apple oat cookies
   https://www.nosalty.hu/recept/babasuti-almabol#comments
 
+<details>
+<summary>Breakfast</summary>
+
 ## Breakfast
 - [Aubergine cream](breakfast/aubergine_cream.md)
 - Egg cream
 - [Bread](breakfast/bread.md)
 - Ricotta blubbery pancake (https://www.youtube.com/watch?v=tGFp1wJrjuI&t=434)
 
+</details>
+
+<detailS>
+<summary> Antipasti </summary>
 
 ## Antipasti
 - Algarve carrots
@@ -19,6 +26,10 @@
 - [Mini zucchini pizzas](antipasti/zucchini_pizza.md)
 - [Tuna paté](https://amp.tudogostoso.com.br/receita/85835-pasta-de-atum-deliciosa.html)
 
+</details>
+
+<details>
+<summary> Snacks </summary>
 
 ## Snacks
 - Ricardo sandwiches
@@ -26,7 +37,22 @@
 - Pogácsa
     - Medvehagyma
     - [Feta](snacks/feta_pogacsa.md)
-    
+
+</details>
+
+
+<details>
+<summary> Salads </summary>
+
+## Salads
+- Mozarela, tomato, balsamic vinegar
+- Feta, asparagus and strawberries
+
+</details>
+
+<details>
+<summary> Drinks </summary>
+
 ## Drinks
 - [Sangria](drinks/sangria.md)
 - [Winter Aperol Spritz](drinks/winter_aperol.md)
@@ -38,6 +64,7 @@
     too sweet like this!
     https://femina.hu/recept/hazi-limonade-receptje/?token=6c42063c889447b5a73037f141e4bf32
 
+</details>
 
 ## Soups
 - Portuguese vegetables
@@ -101,5 +128,34 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 - [arancini](https://www.healthylittlefoodies.com/baked-arancini/#recipe-variations)
 - [risotto](https://www.healthylittlefoodies.com/sundried-tomato-vegetable-risotto/)
 
+## Meat
+- [Moussaka](meat/moussaka.md)
+- [Carrot meat](meat/carrot.md)
+- [Cheesy meat](meat/cheesy.md)
+- [Panna-garlic meat](meat/panna_garlic.md)
+- [Mustard meat](meat/mustard_meat.md)
+- [Manjericão meat](meat/manjericao.md)
+- [Sweet and sour chicken in airfryer](meat/sweat_sour_chicken.md)
+- [Marinated grill meat](https://www.modernhoney.com/the-best-chicken-marinade-recipe)
+- [Tikka Masala](meat/tikka_masala.md)
+- Marocchian meat
+- [Tortilla wraps](meat/tortilla_wraps.md)
+- Breaded meat
+- [Chicken leg and wings in the oven](chicken_legs_wings.md)
+- [Layered cabbage](https://www.mindmegette.hu/recept/egyszeru-rakott-kel)
+- Green curry chicken
+- Simple grilled meat
+- Grill sausages
+- One-pot chicken with rice, carrots, peas
+- Bitoque
+- Coxinhas
+- Hamburgers
+- [Sandwiches in the oven](oven_sandwiches.md)
+- Pizza (also [pan version](https://tasty.co/recipe/20-minute-one-pan-pizza))
 
-
+## Fish
+- [Shrimps with couscous](fish/shrimps_couscous.md)
+- Tuna potato egg salad (with carrot and peas optionally)
+- Boiled fish with egg, potatoes, carrots, peas and mayo
+- Salmon with pesto
+- Salmon with rice and peas
