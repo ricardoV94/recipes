@@ -1,9 +1,4 @@
 # All of our recipes
-
-## BLW
-- Apple oat cookies
-  https://www.nosalty.hu/recept/babasuti-almabol#comments
-
 <details>
 <summary>Breakfast</summary>
 
@@ -37,6 +32,7 @@
 - Pogácsa
     - Medvehagyma
     - [Feta](snacks/feta_pogacsa.md)
+- [Apple oat cookies](https://www.nosalty.hu/recept/babasuti-almabol#comments)
 
 </details>
 
