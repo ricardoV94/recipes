@@ -3,7 +3,6 @@
 <details>
 <summary>Breakfast</summary>
 
-## Breakfast
 - [Aubergine cream](breakfast/aubergine_cream.md)
 - Egg cream
 - [Bread](breakfast/bread.md)
@@ -15,7 +14,6 @@
 <detailS>
 <summary> Antipasti </summary>
 
-## Antipasti
 - Algarve carrots
 - Fish fingers
 - Feta and mozzarella
@@ -29,7 +27,6 @@
 <details>
 <summary> Snacks </summary>
 
-## Snacks
 - Ricardo sandwiches
 - Sausage things
 - Pogácsa
@@ -43,7 +40,6 @@
 <details>
 <summary> Salads </summary>
 
-## Salads
 - Mozarela, tomato, balsamic vinegar
 - Feta, asparagus and strawberries
 
@@ -53,7 +49,6 @@
 <details>
 <summary> Drinks </summary>
 
-## Drinks
 - [Sangria](drinks/sangria.md)
 - [Winter Aperol Spritz](drinks/winter_aperol.md)
 - [Lemonade](drinks/lemonade.md)
@@ -64,7 +59,6 @@
 <details>
 <summary> Soups </summary>
 
-## Soups
 - Portuguese vegetables
 - [Tarragon chicken ragout](soups/tarragon.md)
 - [Panna zucchini](soups/panna_zucchini.md)
@@ -79,7 +73,6 @@
 <details>
 <summary> Pasta </summary>
 
-## Pasta
 - [Greek pasta](pasta/greek.md)
 - Carbonara
     - Ricardo style
@@ -115,7 +108,6 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 <details>
 <summary> Vegetarian </summary>
 
-## Vegetarian
 - Lentil bolognese
 - [Falafel](vegetarian/falafel.md)
 - [Chili Sin Carne](https://prove.hu/vegan-csilisbab-chili-sin-carne/)
@@ -142,7 +134,6 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 <details>
 <summary> Meat </summary>
 
-## Meat
 - [Moussaka](meat/moussaka.md)
 - [Carrot meat](meat/carrot.md)
 - [Cheesy meat](meat/cheesy.md)
@@ -173,7 +164,6 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 <details>
 <summary> Fish </summary>
 
-## Fish
 - [Shrimps with couscous](fish/shrimps_couscous.md)
 - Tuna potato egg salad (with carrot and peas optionally)
 - Boiled fish with egg, potatoes, carrots, peas and mayo
