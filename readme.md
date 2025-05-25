@@ -1,4 +1,5 @@
 # All of our recipes
+
 <details>
 <summary>Breakfast</summary>
 
@@ -9,6 +10,7 @@
 - Ricotta blubbery pancake (https://www.youtube.com/watch?v=tGFp1wJrjuI&t=434)
 
 </details>
+
 
 <detailS>
 <summary> Antipasti </summary>
@@ -22,6 +24,7 @@
 - [Tuna paté](https://amp.tudogostoso.com.br/receita/85835-pasta-de-atum-deliciosa.html)
 
 </details>
+
 
 <details>
 <summary> Snacks </summary>
@@ -46,6 +49,7 @@
 
 </details>
 
+
 <details>
 <summary> Drinks </summary>
 
@@ -62,6 +66,10 @@
 
 </details>
 
+
+<details>
+<summary> Soups </summary>
+
 ## Soups
 - Portuguese vegetables
 - [Tarragon chicken ragout](soups/tarragon.md)
@@ -71,6 +79,11 @@
 - [Onion](soups/onion.md)
 - Package
 
+</details>
+
+
+<details>
+<summary> Pasta </summary>
 
 ## Pasta
 - [Greek pasta](pasta/greek.md)
@@ -102,6 +115,11 @@
 https://www.recipetineats.com/quick-broccoli-pasta/
 - [Green mac and cheese](https://www.healthylittlefoodies.com/green-mac-and-cheese/#recipe) 
 
+</details>
+
+
+<details>
+<summary> Vegetarian </summary>
 
 ## Vegetarian
 - Lentil bolognese
@@ -123,6 +141,12 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 - tócsni
 - [arancini](https://www.healthylittlefoodies.com/baked-arancini/#recipe-variations)
 - [risotto](https://www.healthylittlefoodies.com/sundried-tomato-vegetable-risotto/)
+
+</details>
+
+
+<details>
+<summary> Meat </summary>
 
 ## Meat
 - [Moussaka](meat/moussaka.md)
@@ -149,9 +173,18 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 - [Sandwiches in the oven](oven_sandwiches.md)
 - Pizza (also [pan version](https://tasty.co/recipe/20-minute-one-pan-pizza))
 
+</details>
+
+
+<details>
+<summary> Fish </summary>
+
 ## Fish
 - [Shrimps with couscous](fish/shrimps_couscous.md)
 - Tuna potato egg salad (with carrot and peas optionally)
 - Boiled fish with egg, potatoes, carrots, peas and mayo
 - Salmon with pesto
 - Salmon with rice and peas
+
+</detailS>
+
