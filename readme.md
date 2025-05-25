@@ -56,7 +56,7 @@
 ## Drinks
 - [Sangria](drinks/sangria.md)
 - [Winter Aperol Spritz](drinks/winter_aperol.md)
-- Lemonade
+- [Lemonade](drinks/lemonade.md)
     7 lemons - around 2 dl juice
     1 cup sugar - too much!
     1 cup water with the sugar to melt
