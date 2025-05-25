@@ -6,7 +6,7 @@
 - [Aubergine cream](breakfast/aubergine_cream.md)
 - Egg cream
 - [Bread](breakfast/bread.md)
-- Ricotta blubbery pancake (https://www.youtube.com/watch?v=tGFp1wJrjuI&t=434)
+- [Ricotta blubbery pancake](https://www.youtube.com/watch?v=tGFp1wJrjuI&t=434)
 
 </details>
 
@@ -19,7 +19,7 @@
 - Feta and mozzarella
 - Garlic bread
 - [Mini zucchini pizzas](antipasti/zucchini_pizza.md)
-- [Tuna paté](https://amp.tudogostoso.com.br/receita/85835-pasta-de-atum-deliciosa.html)
+- [Tuna pate](https://amp.tudogostoso.com.br/receita/85835-pasta-de-atum-deliciosa.html)
 
 </details>
 
@@ -124,9 +124,9 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 - Vegetables grilled in the oven
 - Grilled paprika with cheese
 - [Gomba paprikas](https://prove.hu/vegan-gombapaprikas-nokedlivel-glutenmentes-opcio/) -make double portion!
-- tócsni
-- [arancini](https://www.healthylittlefoodies.com/baked-arancini/#recipe-variations)
-- [risotto](https://www.healthylittlefoodies.com/sundried-tomato-vegetable-risotto/)
+- Tócsni
+- [Arancini](https://www.healthylittlefoodies.com/baked-arancini/#recipe-variations)
+- [Risotto](https://www.healthylittlefoodies.com/sundried-tomato-vegetable-risotto/)
 
 </details>
 
