@@ -100,7 +100,8 @@
 - Mac and cheese (https://streetkitchen.hu/alapkeszitmenyek/mac-and-cheese-alaprecept/)
 - Broccoli and lemon pasta
 https://www.recipetineats.com/quick-broccoli-pasta/
-- [Green mac and cheese](https://www.healthylittlefoodies.com/green-mac-and-cheese/#recipe) 
+- [Green mac and cheese](https://www.healthylittlefoodies.com/green-mac-and-cheese/#recipe)
+- [Tuna pasta](https://www.youtube.com/watch?v=yxotCiZqT4Y&t=349)
 
 </details>
 
