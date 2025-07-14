@@ -157,7 +157,7 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 - Coxinhas
 - Hamburgers
 - [Sandwiches in the oven](oven_sandwiches.md)
-- Pizza (also [pan version](https://tasty.co/recipe/20-minute-one-pan-pizza))
+- Pizza (also [pan version](https://tasty.co/recipe/20-minute-one-pan-pizza)) - 7 on stove is not high enough
 
 </details>
 
