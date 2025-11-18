@@ -128,6 +128,8 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 - Tócsni
 - [Arancini](https://www.healthylittlefoodies.com/baked-arancini/#recipe-variations)
 - [Risotto](https://www.healthylittlefoodies.com/sundried-tomato-vegetable-risotto/)
+- Red lentil főzelék
+- Baby curry
 
 </details>
 
@@ -159,6 +161,7 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 - Hamburgers
 - [Sandwiches in the oven](oven_sandwiches.md)
 - Pizza (also [pan version](https://tasty.co/recipe/20-minute-one-pan-pizza)) - 7 on stove is not high enough
+- Baby chilli beans
 
 </details>
 
