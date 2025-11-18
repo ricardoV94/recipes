@@ -128,7 +128,7 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 - Tócsni
 - [Arancini](https://www.healthylittlefoodies.com/baked-arancini/#recipe-variations)
 - [Risotto](https://www.healthylittlefoodies.com/sundried-tomato-vegetable-risotto/)
-- Red lentil főzelék
+- [Red lentil főzelék](vegetarian/redlentil.md)
 - Baby curry
 
 </details>
