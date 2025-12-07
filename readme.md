@@ -162,6 +162,7 @@ https://www.recipetineats.com/quick-broccoli-pasta/
 - [Sandwiches in the oven](oven_sandwiches.md)
 - Pizza (also [pan version](https://tasty.co/recipe/20-minute-one-pan-pizza)) - 7 on stove is not high enough
 - Baby chilli beans
+- [Layered cauliflower] (https://streetkitchen.hu/receptek/szaftos-rakott-karfiol)
 
 </details>
 
